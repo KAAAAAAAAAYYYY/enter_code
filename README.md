@@ -16,4 +16,4 @@ La página está diseñada para ser simple y rápida, con una interfaz fácil de
 
 1. Clona este repositorio a tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/KAAAAAAAAAYYYY/enter_code
